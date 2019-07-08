@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/deployment-on-github/static/css/main.2cce8147.chunk.css",
+    "main.js": "/deployment-on-github/static/js/main.252dcd60.chunk.js",
+    "main.js.map": "/deployment-on-github/static/js/main.252dcd60.chunk.js.map",
+    "runtime~main.js": "/deployment-on-github/static/js/runtime~main.89ce618d.js",
+    "runtime~main.js.map": "/deployment-on-github/static/js/runtime~main.89ce618d.js.map",
+    "static/js/2.b41502e9.chunk.js": "/deployment-on-github/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/deployment-on-github/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/deployment-on-github/index.html",
+    "precache-manifest.ebf30a115f2e407262a8f07755691d4f.js": "/deployment-on-github/precache-manifest.ebf30a115f2e407262a8f07755691d4f.js",
+    "service-worker.js": "/deployment-on-github/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/deployment-on-github/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/deployment-on-github/static/media/logo.5d5d9eef.svg"
+  }
+}
